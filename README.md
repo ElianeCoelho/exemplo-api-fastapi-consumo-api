@@ -1,0 +1,1 @@
+# exemplo-api-fastapi-consumo-api
